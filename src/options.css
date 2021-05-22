@@ -1,0 +1,19 @@
+.bankItems {
+    width: 100%;
+    list-style: none;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+img {
+    max-height: 10vh;
+}
+label {
+    width:100%;
+    align-content: center;
+}
+
+.tellStatus{
+    font-size: 14px;
+    font-style: italic;
+}

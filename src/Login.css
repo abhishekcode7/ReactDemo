@@ -1,0 +1,24 @@
+
+#mainWindow {
+  width:30%;
+  align-items: center;
+  align-self: center;
+  position: absolute;
+  margin-left: 35%;
+  /* margin-right: 35%; */
+}
+input{ 
+  width: 100%;
+  min-height: 6vh;
+  position: relative;
+  border-radius: 5px;
+  background-color:rgb(228, 203, 170);
+  border-style:none;
+  margin-bottom: 4px;
+}
+button{
+  width: 20%;
+  min-height: 4vh;
+  background-color: rgb(255, 255, 255);
+  border-style: solid;
+}
